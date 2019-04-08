@@ -1,0 +1,13 @@
+{
+  "name":"杨亚宸",
+  "age":21,
+  "birthday":"1997-06-26",
+  "school":"江陵一中",
+  "major":["泡妞","学习"],
+  "has_girlfriend":false,
+  "car":null,
+  "house":null,
+  "comments":"这是一个注释"
+}
+//json没有注释
+
